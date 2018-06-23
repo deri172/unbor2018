@@ -11960,9 +11960,9 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: 'http://elearning.borobudur.ac.id',
+            siteurl: 'http://elearning.borobudur.ac.id/',
             username: '',
-            urltoopen: 'http://elearning.borobudur.ac.id',
+            urltoopen: 'http://elearning.borobudur.ac.id/',
             siteconfig: null
         },
         onEnter: ["$state", "$stateParams", function($state, $stateParams) {
@@ -71967,7 +71967,7 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://elearning.borobudur.ac.id",
+    "siteurl": "http://elearning.borobudur.ac.id/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",

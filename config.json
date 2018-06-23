@@ -10,7 +10,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://elearning.borobudur.ac.id",
+    "siteurl": "http://elearning.borobudur.ac.id/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
