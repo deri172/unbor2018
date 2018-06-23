@@ -588,7 +588,7 @@
     "mm.login.invalidurl": "URL no válida",
     "mm.login.invalidvaluemax": "El valor máximo es {{$a}}",
     "mm.login.invalidvaluemin": "El valor mínimo es {{$a}}",
-    "mm.login.localmobileunexpectedresponse": "Las características adicionales de Moodle Mobile han devuelto una respuesta inesperada, debe autenticarse utilizando el servicio estándar de Mobile.",
+    "mm.login.localmobileunexpectedresponse": "Las características adicionales de Borobudur Elearning App han devuelto una respuesta inesperada, debe autenticarse utilizando el servicio estándar de Mobile.",
     "mm.login.loggedoutssodescription": "Tiene que autenticarse nuevamente. Necesita acceder al sitio en una ventana del navegador.",
     "mm.login.login": "Acceder",
     "mm.login.loginbutton": "Acceder",

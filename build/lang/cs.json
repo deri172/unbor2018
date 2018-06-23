@@ -610,7 +610,7 @@
     "mm.login.invalidurl": "Neplatná URL",
     "mm.login.invalidvaluemax": "Maximální hodnota je {{$a}}",
     "mm.login.invalidvaluemin": "Minimální hodnota je {{$a}}",
-    "mm.login.localmobileunexpectedresponse": "Kontrola rozšířených vlastností Moodle Mobile vrátil neočekávanou odezvu. Budete ověřen pomocí standardních služeb mobilu .",
+    "mm.login.localmobileunexpectedresponse": "Kontrola rozšířených vlastností Borobudur Elearning App vrátil neočekávanou odezvu. Budete ověřen pomocí standardních služeb mobilu .",
     "mm.login.loggedoutssodescription": "Musíte se znovu autentizovat. Musíte se přihlásit na stránky v okně prohlížeče.",
     "mm.login.login": "Přihlášení",
     "mm.login.loginbutton": "Přihlásit se",

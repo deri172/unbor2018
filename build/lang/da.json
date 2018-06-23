@@ -325,7 +325,7 @@
     "mm.login.invalidurl": "Ugyldig URL",
     "mm.login.invalidvaluemax": "Højeste værdi er {{$a}}",
     "mm.login.invalidvaluemin": "Mindste værdi er {{$a}}",
-    "mm.login.localmobileunexpectedresponse": "Du har fået en uventet reaktion fra Moodle Mobile Additional Features, så du vil blive godkendt ved hjælp af standard Mobile service.",
+    "mm.login.localmobileunexpectedresponse": "Du har fået en uventet reaktion fra Borobudur Elearning App Additional Features, så du vil blive godkendt ved hjælp af standard Mobile service.",
     "mm.login.login": "Log ind",
     "mm.login.loginbutton": "Login",
     "mm.login.logininsiterequired": "Du skal logge på websiden via en browser",
