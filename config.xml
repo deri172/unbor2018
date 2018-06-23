@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.lantai5.elearning"
+        id        = "com.moodle.moodlemobile"
         versionCode = "20230"
         version   = "3.4.2">
-    <name>Borobudur Elearning App</name>
+    <name>Moodle Mobile</name>
 
     <description>
-        Borobudur Elearning App official app
+        Moodle Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Borobudur Elearning App team
+        Moodle Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
